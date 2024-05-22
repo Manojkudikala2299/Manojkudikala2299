@@ -1,13 +1,3 @@
-👋 Hello there! I'm Manoj Kudikala, a passionate data enthusiast and aspiring data scientist based in Fairfax, VA. 🚀
-
-🎓 Currently pursuing a Master's in Data Analytics Engineering at George Mason University, I thrive on transforming raw data into meaningful insights. My academic journey has equipped me with a strong foundation in analytics, statistics, and data management.
-
-💻 Proficient in a variety of tools and languages including Python (Pandas, NumPy, Scikit-learn), SQL, and data visualization tools like Tableau and Power BI. I'm always eager to explore new technologies and frameworks to enhance my skills.
-
-📊 My hands-on experience includes working on intriguing projects such as T20 Cricket Data Analysis, Machine Learning-driven Car Price Prediction, and Twitter Sentiment Analysis using NLP. Each project reflects my dedication to leveraging data for valuable insights.
-
-🔧 In addition to my academic pursuits, I have real-world experience as a Data Analyst at George Mason University and as an Application Developer at Accenture. I've successfully contributed to projects involving data migration, automated tools, and ETL processes.
-
-🌐 Let's connect and explore the world of data together! Feel free to check out my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀
+Data Engineer with 4+ years of experience in designing and implementing robust data solutions across various industries. Adept at managing the complete Software Development Life Cycle (SDLC) using Agile methodologies to deliver efficient, scalable data architectures. Expertise in developing complex data pipelines and algorithms using R, Python, SQL, and big data technologies such as Hadoop, MapReduce, Hive, Apache Spark, and Pig. Proficient in ETL processes with tools like SSIS and managing cloud-based data services on AWS and Azure platforms. Strong command of data analysis libraries including NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, and TensorFlow, facilitating the creation of advanced predictive models and insightful data visualizations. Skilled in data reporting and visualization tools such as Tableau, Power BI, and SSRS, enabling data-driven decision-making.
 
 
